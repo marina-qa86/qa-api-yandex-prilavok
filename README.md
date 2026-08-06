@@ -37,10 +37,10 @@
 
  Инструменты: Postman, ApiDoc, Google Sheets
 
- Фрагмент чек-листа API](api-postman.png)
+ Фрагмент чек-листа API checklist..png
 
-Фрагмент  баг-репорта:*
-![Баг-репорт](api-bug.png)
-</details>
+Фрагмент  баг-репорта:bug-rep.png
+
+
 
 
